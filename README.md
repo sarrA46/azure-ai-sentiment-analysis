@@ -1,5 +1,5 @@
 # Azure AI Sentiment Analysis & NLP Platform
-<img width="1456" height="650" alt="image" src="https://github.com/user-attachments/assets/89a5b5a2-403e-4452-a278-21a9e968696d" />
+<img width="945" height="532" alt="image" src="https://github.com/user-attachments/assets/a9322413-dbdd-482c-85b3-e41b53335673" />
 
 ## Project Overview
 
@@ -77,7 +77,10 @@ Expose NLP functionalities through API endpoints:
 - `/entities`
 - `/classify`
 - `/trends`
-<img width="1456" height="606" alt="image" src="https://github.com/user-attachments/assets/a325c316-6349-4e0d-b32a-ce03f7af63dd" />
+
+<img width="945" height="532" alt="image" src="https://github.com/user-attachments/assets/b1bae115-0262-467b-b8bb-ae387a49fd47" />
+<img width="945" height="532" alt="image" src="https://github.com/user-attachments/assets/b0c5904c-f8ec-4110-b29e-17a2f27de2c1" />
+
 
 
 ### 7. Interactive Dashboard
@@ -135,7 +138,6 @@ AZURE_LANGUAGE_ENDPOINT=your_endpoint
 AZURE_LANGUAGE_KEY=your_api_key
 ```
 
-**Important:** Never upload your `.env` file or Azure API keys to GitHub.
 
 ## Expected Results
 
